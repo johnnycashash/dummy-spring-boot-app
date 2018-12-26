@@ -8,6 +8,7 @@ public class DummySpringBootAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DummySpringBootAppApplication.class, args);
+		System.out.println("Jagan");
 	}
 
 }
