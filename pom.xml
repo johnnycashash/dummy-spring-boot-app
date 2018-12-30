@@ -8,11 +8,11 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.johnnycash</groupId>
-	<artifactId>dummy-spring-boot-app</artifactId>
+	<groupId>org.finance</groupId>
+	<artifactId>finance-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dummy-spring-boot-app</name>
-	<description>Demo project for Spring Boot</description>
+	<name>finance-app</name>
+	<description>finance-app</description>
 
 	<properties>
 		<java.version>1.8</java.version>

@@ -1,4 +1,4 @@
-package org.johnnycash.dummy;
+package org.finance.app;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
