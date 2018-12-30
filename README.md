@@ -1,1 +1,1 @@
-# dummy-spring-boot-app
+# finance-app
